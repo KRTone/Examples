@@ -1,2 +1,3 @@
 # Examples
-Solutions for different examples
+полезности разного рода
+usefulness of various kinds
